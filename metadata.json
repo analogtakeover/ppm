@@ -1,0 +1,6 @@
+{
+  "name": "Mike: Site Assistant",
+  "description": "Field operations and site completion assistant for Pristine Property Maintenance crews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
